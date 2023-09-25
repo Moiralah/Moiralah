@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Humaira Idris @Moiralah
 - 👀 I’m an aspiring Data Analyst looking for job remote or office-based (Malaysia).
-- 🌱 I’m currently learning in depth SQL, Tableau, Excel and Power BI. 
+- 🌱 I’m currently learning in depth SQL, Tableau, Excel, Python and Power BI. 
 - 💞️ I’m looking to collaborate more on data analysis project to sharpen my skill.
 - 📫 Reach me at discord @moira007 or email aira.idris@gmail.com
 

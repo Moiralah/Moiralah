@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Humaira Idris @Moiralah
-- 👀 Student at 42KL. Currently diving in the wonderful world of C language.
+- 👀 Student at 42KL. Currently diving in to the wonderful world of C language.
 - 📫 Reach me at discord @moira007 or email aira.idris@gmail.com
 
 <!---
